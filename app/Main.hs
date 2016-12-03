@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import LandInsight.Types
 
 main :: IO ()
 main = print 1

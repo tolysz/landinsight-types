@@ -1,6 +1,6 @@
 {-# LANGUAGE OverloadedStrings, DeriveGeneric, RecordWildCards #-}
 {-# LANGUAGE TemplateHaskell #-}
-module Lib
+module LandInsight.Types
     ( Location (..)
     , Planning (..)
     )
